@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 ## `BayesAMMI2`: Bayesian Estimation of the Additive Main Effects and Multiplicative Interaction Model
 
 
-###### Version : [`r getNamespaceVersion("BayesAMMI2")`](https://myaseen208.com/BayesAMMI2/); Copyright (C) 2018-2024: License: [GPL-2|GPL-3](https://www.r-project.org/Licenses/)
+###### Version : [`r getNamespaceVersion("BayesAMMI2")`](https://myaseen208.com/BayesAMMI2/); Copyright (C) 2024: License: [GPL-3](https://www.r-project.org/Licenses/)
 
 
 ##### *Muhammad Yaseen^1,2^, Diego Jarquin^3^, Julian Garcia Abadillo Velasco^3^*

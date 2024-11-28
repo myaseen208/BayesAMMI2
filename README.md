@@ -1,7 +1,7 @@
 
 ## `BayesAMMI2`: Bayesian Estimation of the Additive Main Effects and Multiplicative Interaction Model
 
-###### Version : [0.1.0](https://myaseen208.com/BayesAMMI2/); Copyright (C) 2018-2024: License: [GPL-2\|GPL-3](https://www.r-project.org/Licenses/)
+###### Version : [0.1.0](https://myaseen208.com/BayesAMMI2/); Copyright (C) 2024: License: [GPL-3](https://www.r-project.org/Licenses/)
 
 ##### *Muhammad Yaseen<sup>1,2</sup>, Diego Jarquin<sup>3</sup>, Julian Garcia Abadillo Velasco<sup>3</sup>*
 
