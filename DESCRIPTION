@@ -1,0 +1,43 @@
+Package: BayesAMMI2
+Type: Package
+Title: Bayesian Estimation of the Additive Main Effects and Multiplicative Interaction Model
+Version: 0.1.0
+Authors@R: c(
+              person(c("Muhammad", "Yaseen"),        email = "myaseen208@gmail.com",       role = c("aut", "cre"))
+            , person(c("Jose", "Crossa"),            email = "j.crossa@cgiar.org",         role = c("aut", "ctb"))
+            , person(c("Sergio", "Perez-Elizalde"),  email = "sergiop@colpos.mx",          role = c("aut", "ctb"))
+            , person(c("Diego", "Jarquin"),          email = "diego.jarquin@gmail.com",    role = c("aut", "ctb"))
+            , person(c("Julian", "Garcia", "Abadillo Velasco"),  email = "garciaabadillo.j@ufl.edu", role = c("aut", "ctb"))
+            )
+Maintainer: Muhammad Yaseen <myaseen208@gmail.com>
+Description: Performs Bayesian estimation of the additive main effects and multiplicative interaction (AMMI) model. The method is explained in Crossa, J., Perez-Elizalde, S., Jarquin, D., Cotes, J.M., Viele, K., Liu, G. and Cornelius, P.L. (2011) (<doi:10.2135/cropsci2010.06.0343>).
+Depends: R (>= 3.1)
+Imports: 
+  collapse,
+  data.table,
+  dplyr,
+  DT,
+  ggplot2,
+  ggrepel,
+  lme4,
+  magrittr,
+  MASS,
+  mvtnorm,
+  rlang,
+  rstiefel,
+  scales,
+  shiny,
+  shinyBS,
+  shinydashboardPlus,
+  stats,
+  tmvtnorm
+License: GPL-3
+Encoding: UTF-8
+URL: https://myaseen208.com/BayesAMMI2/
+     https://CRAN.R-project.org/package=BayesAMMI2
+BugReports: https://github.com/myaseen208/BayesAMMI2/issues
+LazyData: true
+RoxygenNote: 7.3.2
+Note: 1. School of Mathematical & Statistical Sciences, Clemson University, Clemson, South Carolina, USA
+      2. Department of Mathematics & Statistics, University of Agriculture Faisalabad, Faisalabad, Pakistan
+

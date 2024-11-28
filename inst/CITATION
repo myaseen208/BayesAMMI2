@@ -1,0 +1,14 @@
+bibentry(
+  "manual",
+  header = "Please, support this project by citing it in your publications!",
+  title = "BayesAMMI2: Bayesian Estimation of the Additive Main Effects and Multiplicative Interaction Model",
+	author = c(
+	           person(c("Muhammad"), "Yaseen")
+	         , person(c("Jose"), "Crossa")
+	         , person(c("Sergio"), "Perez-Elizalde")
+	         , person(c("Diego"), "Jarquin")
+	         , person(c("Julian", "Garcia"), "Abadillo Velasco")
+	         ),
+  year = 2024,
+  journal = "The Comprehensive R Archive Network (CRAN)"
+)
