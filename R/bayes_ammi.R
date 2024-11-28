@@ -59,7 +59,14 @@
 #'   )
 #' names(fm1)
 #' fm1
-#' plot(fm1)
+#' 
+#' plot(x = fm1, plot_selection = 1)
+#' plot(x = fm1, plot_selection = 2)
+#' plot(x = fm1, plot_selection = 3)
+#' plot(x = fm1, plot_selection = 4)
+#' plot(x = fm1, plot_selection = 5)
+#' plot(x = fm1, plot_selection = 6)
+#' 
 #' biplots(fm1)
 #'
 if (getRversion() >= "2.15.1") {

@@ -4,8 +4,6 @@ Title: Bayesian Estimation of the Additive Main Effects and Multiplicative Inter
 Version: 0.1.0
 Authors@R: c(
               person(c("Muhammad", "Yaseen"),        email = "myaseen208@gmail.com",       role = c("aut", "cre"))
-            , person(c("Jose", "Crossa"),            email = "j.crossa@cgiar.org",         role = c("aut", "ctb"))
-            , person(c("Sergio", "Perez-Elizalde"),  email = "sergiop@colpos.mx",          role = c("aut", "ctb"))
             , person(c("Diego", "Jarquin"),          email = "diego.jarquin@gmail.com",    role = c("aut", "ctb"))
             , person(c("Julian", "Garcia", "Abadillo Velasco"),  email = "garciaabadillo.j@ufl.edu", role = c("aut", "ctb"))
             )

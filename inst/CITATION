@@ -4,8 +4,6 @@ bibentry(
   title = "BayesAMMI2: Bayesian Estimation of the Additive Main Effects and Multiplicative Interaction Model",
 	author = c(
 	           person(c("Muhammad"), "Yaseen")
-	         , person(c("Jose"), "Crossa")
-	         , person(c("Sergio"), "Perez-Elizalde")
 	         , person(c("Diego"), "Jarquin")
 	         , person(c("Julian", "Garcia"), "Abadillo Velasco")
 	         ),

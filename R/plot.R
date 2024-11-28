@@ -32,8 +32,13 @@
 #'  ,  .rep  = Rep
 #'  , .nIter = 20
 #' )
-#' plot(fm1, plot_selection = "all")  # Plot all
-#' plot(fm1, plot_selection = 1)      # Only mu plots
+#' 
+#' plot(x = fm1, plot_selection = 1)
+#' plot(x = fm1, plot_selection = 2)
+#' plot(x = fm1, plot_selection = 3)
+#' plot(x = fm1, plot_selection = 4)
+#' plot(x = fm1, plot_selection = 5)
+#' plot(x = fm1, plot_selection = 6)
 #'
 #'
 #' @import ggplot2 ggrepel lme4 mvtnorm rlang rstiefel scales shiny shinyBS shinydashboardPlus tmvtnorm
